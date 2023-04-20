@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295755028929",
+    "project_id": "afternoon-fb-app-e4474",
+    "storage_bucket": "afternoon-fb-app-e4474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295755028929:android:3e1270b79ad2e0f6617740",
+        "android_client_info": {
+          "package_name": "com.example.afternoonfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295755028929-6nsnmr2b32jpu4ceu9tfrkd79252r7mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR0tAj0VwO4MIp4etnVggSmfy6vomTlyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295755028929-6nsnmr2b32jpu4ceu9tfrkd79252r7mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
